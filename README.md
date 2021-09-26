@@ -1,1 +1,4 @@
 # Airplane-Safety
+This research studies on the social influences and public perception to aviation accidents and airlines. When an accident happens, the media usually exaggerates the consequences and people may worry about airline safety management, resulting in loss of passengers and social panic.
+
+Our data file represents the safety records for major commercial airlines (56 Airlines over the past 29 years, as based on the Aviation Safety Network’s database. The method is relatively simple. The 29 years  is broken down into two halves: first from 1985 to 1999, and then from 2000 to 2014. We will  look to see whether there was a correlation in crash rates from one half of the data set to the other. If we identify a correlation, that will imply that crash risk is persistent — predictable to some extent based on the airline.
